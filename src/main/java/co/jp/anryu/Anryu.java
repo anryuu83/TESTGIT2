@@ -4,7 +4,7 @@ public class Anryu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println(12334543);
+System.out.println(1212);
 	}
 
 }
