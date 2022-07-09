@@ -6,6 +6,7 @@ public class Anryu {
 		// TODO Auto-generated method stub
 System.out.println(23423434);
 System.out.println(1212);
+System.out.println(123456);
 	}
 
 }
