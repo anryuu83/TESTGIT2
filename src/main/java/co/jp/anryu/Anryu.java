@@ -9,6 +9,7 @@ System.out.println(1212);
 System.out.println(123456);
 System.out.println(123456);
 System.out.println(1234567);
+System.out.println(12345678);
 	}
 
 }
